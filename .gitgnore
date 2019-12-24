@@ -1,4 +1,4 @@
 #Heain's Git Ignore#
 
 #ignore our data file
-US_Accidents_May19.csv
+/US_Accidents_May19.csv
