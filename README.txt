@@ -6,8 +6,8 @@ Where do the highest number of accidents occur? (Heain)
   Where do the most lethal accidents occur? (Heain)
 Under what weather conditions do accidents occur? (Diana)
   Does weather affect accident rates equally across different climate zones/states? (Diana)
-When do the highest number of accidents occur?
-  When do the most lethal accidents occur?
+When do the highest number of accidents occur? (Heain)
+  When do the most lethal accidents occur? (Heain)
 What age/gender/etc groups are responsible for the most accidents?
 Are there any correlation with different traffic infrastructure and accidents? (Dagney)
 Example:
