@@ -63,9 +63,10 @@ We also looked at whether there were more accidents on roads that went N/S, or r
 
 ## Sources 
 ### Accident Data
-* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.*  
-* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.*  
 [link to kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents)
+
+* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
+* Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019. 
 ### Other Relevant Data
 * ACS: Population data by [state](https://www.census.gov/content/census/en/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage_1574439295), [county](https://www.census.gov/content/census/en/data/tables/time-series/demo/popest/2010s-counties-total.html#par_textimage_242301767), [city](https://www.census.gov/content/census/en/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) 
 * Department of Transportation: ["Highway Statistic 2017 - Licensed Drivers by State"](https://www.fhwa.dot.gov/policyinformation/statistics/2017/)
