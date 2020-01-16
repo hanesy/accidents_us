@@ -3,7 +3,7 @@
 ## Project 1 (January 2020)  
 __Team AAA: Dagney Cook, Diana Silva, Heain Yee__  
 
-#### Introduction
+## Introduction
 The project group sought to review data regarding the car accidents in the United States. We reviewed data on reported car accidents across the United States between 2016 and 2019. We sought to answer the following questions:
 
 1. Have car accidents increased over time?
@@ -14,10 +14,10 @@ The project group sought to review data regarding the car accidents in the Unite
 
 This file contains the executive level summary. Detailed findings, methodology, and limitations are available within the final presentation at this [link](https://docs.google.com/presentation/d/1Qo-e_8BA8SlvF52k39OP4iQ8TkSZ4GOLJ6O3hjBERls/edit?usp=sharing).
 
-#### Findings
+## Findings
 
-##### 1. Have car accidents increased over time?
-(Slide 5)
+### 1. Have car accidents increased over time?
+*(Slide 5)*
 
 There was a 120% increase in the number of reported car accidents from 2016 to 2018.
 
@@ -29,22 +29,22 @@ We recognized that the accidents data could be driven by the following factors:
 For the scope of our project, we wanted to make sure to normalize for population in answering our geographic questions. 
 _(Data about the rate of accidents reported or the actual occurence of accidents was unavailable at the time of the project.)_
 
-##### 2. Where do the highest number of accidents occur, and where do the most severe accidents occur?
-(Slides 6 through 8 (and appendix slide 19); focused on 2017)
+### 2. Where do the highest number of accidents occur, and where do the most severe accidents occur?
+*(Slides 6 through 8 (and appendix slide 19); focused on 2017)*
 
 We found that the highest number of accidents occured where there were the most number of drivers (California, Texas, Florida). However, when we adjusted for population, South Carolina had the higest rate of accidents, followed by California and North Carolina.
 
 Approximately half of Wyoming and Arkasas's accidents were likely to be reported as severe (i.e., to cause long delay). Despite having had the most number of accidents, accidents in California, Texas, and Florida were less likely to be reported as severe.
 
-##### 3. When do the highest number of accidents occur?
-(Slide 9 (and appendix slide 21, 22); focused on 2017)
+### 3. When do the highest number of accidents occur?
+*(Slide 9 (and appendix slide 21, 22); focused on 2017)*
 
 We found that a higher number of accidents occured during communte times (i.e., 7 am to 9 am and 4 pm to 6 pm).
 
 We found that a number of accidents occured between August and December.
 
-##### 4. Under what weather conditions do accidents occur?
-(Slide 10; 2016 to 2018)
+### 4. Under what weather conditions do accidents occur?
+*(Slide 10; 2016 to 2018)*
 
 Looking purely at the number of accidents per weather condition, we can see that 51% of the total accidents between 2016 and 2018 occurred when it was a Cloudy weather and 38% when it was Clear. The third biggest Weather condition with most accidents is Rain with only 7%.
 
@@ -52,8 +52,8 @@ Even though the accidents occur mostly when supposedly there are the best weathe
 
 We believe that we could have better insights on correlations between the number of accidents and the road conditions if had the information of the road conditions at the time of the accident.
 
-##### 5. Is there any correlation between different traffic infrastructure and frequency of accidents? Between street direction and accidents?
-(Slide 11-13; 2016 to 2018)
+### 5. Is there any correlation between different traffic infrastructure and frequency of accidents? Between street direction and accidents?
+*(Slide 11-13; 2016 to 2018)*
 
 While we found that fewer accidents occur near traffic infrastructure than not, there were a lot of questions that arose about what exactly this data meant.  The data set creator does not describe what “near” means, is this a distance or just a general observation by the reporting officer?  Can an accident be near multiple types of infrastructure (it could be near an amenity and a crossing and a traffic signal).  This data is not necessarily either/or, but it presented as such in the data set.  While the indication is that the highest number of accidents occur at traffic infrastructure where cars meet going in different directions, it’s hard to tell what data we’re missing.
 
