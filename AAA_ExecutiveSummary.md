@@ -61,12 +61,12 @@ In examining different street types, we were able to parse out whether a street 
 
 We also looked at whether there were more accidents on roads that went N/S, or roads that go W/E.  The data shows that more accidents occur on N/S roads than W/E roads, for roads that have a cardinal direction designation.  It would be interesting to look into how many N/S roads there are vs W/E, or determine which bucket the roads without a direction designation fall into.  There’s also the question that roads do not always maintain a perfect N/S orientation, and thus accidents could occur on a N/S while the car is actually moving E/W.  Another question to take into account would be direction and sunrise/sunset times - are E/W roads more dangerous during sunrise and sunset when drivers could be blinded?  Can this be merged with the data on accident frequency based on time of day?
 
-### Sources 
-###### Accident Data
+## Sources 
+### Accident Data
 * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.*  
 * Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.*  
 [link to kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents)
-###### Other Relevant Data
+### Other Relevant Data
 * ACS: Population data by [state](https://www.census.gov/content/census/en/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage_1574439295), [county](https://www.census.gov/content/census/en/data/tables/time-series/demo/popest/2010s-counties-total.html#par_textimage_242301767), [city](https://www.census.gov/content/census/en/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) 
 * Department of Transportation: ["Highway Statistic 2017 - Licensed Drivers by State"](https://www.fhwa.dot.gov/policyinformation/statistics/2017/)
 * National Center for Environmental Information: [Climate Data Online for Denver, San Francisco and Rhode Island](https://www.ncdc.noaa.gov/cdo-web/)
