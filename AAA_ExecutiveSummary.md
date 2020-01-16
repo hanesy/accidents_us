@@ -1,7 +1,6 @@
 # Accidents in the United States
 __Team AAA: Dagney Cook, Diana Silva, Heain Yee__  
-
-## Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp  
+Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp  
 
 ## Introduction
 The project group sought to review data regarding the car accidents in the United States. We reviewed data on reported car accidents across the United States between 2016 and 2019. We sought to answer the following questions:

@@ -1,9 +1,8 @@
 # Accidents in the United States
 __Team AAA: Dagney Cook, Diana Silva, Heain Yee__  
+Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp  
 
-## Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp  
-
-This project seeks to answer the following questions about car accidents in the United States.  
+### This project seeks to answer the following questions about car accidents in the United States.  
 
 1. Have car accidents increased over time?
 2. Where do the highest number of accidents occur, and where do the most severe accidents occur?
