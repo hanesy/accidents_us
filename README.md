@@ -1,5 +1,5 @@
 # Accidents in the United States
-__Team AAA: Dagney Cook, Diana Silva, Heain Yee__  
+__Team AAA: Dagney Cooke, Diana Silva, Heain Yee__  
 Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp  
 
 ### This project seeks to answer the following questions about car accidents in the United States.  

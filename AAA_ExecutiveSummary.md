@@ -1,5 +1,5 @@
 # Accidents in the United States
-__Team AAA: Dagney Cook, Diana Silva, Heain Yee__  
+__Team AAA: Dagney Cooke, Diana Silva, Heain Yee__  
 Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp  
 
 ## Introduction
@@ -20,10 +20,10 @@ This file contains the executive level summary. Detailed findings, methodology, 
 
 There was a 120% increase in the number of reported car accidents from 2016 to 2018.
 
-We recognized that the accidents data could be driven by the following factors:
-1. Difference in in population/drivers
-2. Difference in rate of accidents reported
-3. Difference in the actual occurence of accidents
+We recognized that the increase in accidents data could be driven by the following factors:
+1. Increase in population/drivers
+2. Increase in rate of accidents reported
+3. Increase in the actual occurence of accidents
 
 For the scope of our project, we wanted to make sure to normalize for population in answering our geographic questions. 
 _(Data about the rate of accidents reported or the actual occurence of accidents was unavailable at the time of the project.)_
@@ -31,14 +31,14 @@ _(Data about the rate of accidents reported or the actual occurence of accidents
 ### 2. Where do the highest number of accidents occur, and where do the most severe accidents occur?
 *(Slides 6 through 8 (and appendix slide 19); focused on 2017)*
 
-We found that the highest number of accidents occured where there were the most number of drivers (California, Texas, Florida). However, when we adjusted for population, South Carolina had the higest rate of accidents, followed by California and North Carolina.
+We found that the highest number of accidents occured where there were the most number of drivers (California, Texas, Florida). However, when we adjusted for population, South Carolina had the highest rate of accidents, followed by California and North Carolina.
 
 Approximately half of Wyoming and Arkasas's accidents were likely to be reported as severe (i.e., to cause long delay). Despite having had the most number of accidents, accidents in California, Texas, and Florida were less likely to be reported as severe.
 
 ### 3. When do the highest number of accidents occur?
 *(Slide 9 (and appendix slide 21, 22); focused on 2017)*
 
-We found that a higher number of accidents occured during communte times (i.e., 7 am to 9 am and 4 pm to 6 pm).
+We found that a higher number of accidents occured during commute times (i.e., 7 am to 9 am and 4 pm to 6 pm).
 
 We found that a number of accidents occured between August and December.
 
