@@ -14,7 +14,7 @@ Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp
 * You can find the executive summary of our findings on "AAA_ExecutiveSummary" file within this repository. 
 * The final presentation is available at this [link](https://docs.google.com/presentation/d/1Qo-e_8BA8SlvF52k39OP4iQ8TkSZ4GOLJ6O3hjBERls/edit?usp=sharing).
 * Please refer to "AAA_Data_Cleaning" notebook for details on how we prepared our dataset.
-* Please refer to "AAA_Data_Cleaning" notebook our analysis.
+* Please refer to "AAA_Data_Analysis" notebook our analysis.
 
 ### Sources 
 ###### Accident Data
