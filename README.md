@@ -2,8 +2,8 @@
 __Team AAA: Dagney Cooke, Diana Silva, Heain Yee__  
 Project 1 (January 2020); UC Berkeley Data and Analytics Bootcamp  
 
-### Notes re Large Data File from Kaggle
-The kaggle data file is not included in the github because it is too large and kept crashing everything.  It can be accessed directly from kaggle (see link below).
+### Large Source Data File from Kaggle
+The source data file is not included in the github as it is a large file.  It can be accessed directly from kaggle (see link below).
 
 ### This project seeks to answer the following questions about car accidents in the United States.  
 
